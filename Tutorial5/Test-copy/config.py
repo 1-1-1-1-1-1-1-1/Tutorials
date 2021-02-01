@@ -1,0 +1,2 @@
+TOKEN = '951817091:AAFAg5KSlTUou_BN71RRORUe6IrIrgCoTMs'
+APP_NAME = 'momentumbots'
